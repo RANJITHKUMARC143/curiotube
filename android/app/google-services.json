@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584325284583",
+    "project_id": "curiotube-facb9",
+    "storage_bucket": "curiotube-facb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584325284583:android:bfa2669a73c31557531842",
+        "android_client_info": {
+          "package_name": "com.curiotube.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUi74W-pOkFF0UWfa_a74-uhcybLNRRQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
